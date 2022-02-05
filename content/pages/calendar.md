@@ -4,29 +4,311 @@ title: Calendar
 uid: 8b0d1868-4545-6a1f-a81c-7df1be414786
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. Writing/Revising: Focusing, Summary vs. Analysis, Answering Questions, and Commenting Well**{{< /td-colspan >}} |||
-| 1 | Introduction to Course, fill out Index Cards.  {{< br >}}Consider Our "Claims to Distinction."  {{< br >}}Begin your autobiography as a writer.  {{< br >}}Suggestions for Paper #1.  {{< br >}}Brainstorming. | &nbsp; |
-| 2 | Brief Autobiography As a Writer (3 pages).  {{< br >}}Discuss Rodriguez, "The Achievement of Desire." | Reading Notes, and Proposal Due |
-| 3 | Small Group Workshops for Comments.  {{< br >}}(Bring 3 copies of draft to class.) | Draft #1 Due |
-| 4 | Discuss Jacobs, _Incidents_.  {{< br >}}(N.B.) Assignment #2 presented and discussed. | Proposal #2 Due by Email |
-| 5 | Small Group Workshops. | Draft #2 Due |
-| 6 | Read _The Elements of Style_, by Strunk & White. Bring questions.  {{< br >}}Large workshop on revising thesis, focus, organization, implications, etc. | &nbsp; |
-| 7 | Discuss Woolf, "A Sketch of the Past."  {{< br >}}(Conferences this week. Sign up in class.) | Revision #2 (of Draft #1 or #2) Due |
-| 8 | Continue Discussing Woolf.  {{< br >}}Assignment #3 presented. | Proposal #3 Due |
-| {{< td-colspan 3 >}}**II. Overall Shapes of Essays: Organizing Principles, Models of Whole Selves and Whole Ideas**{{< /td-colspan >}} |||
-| 10 | Small Group Workshops. | Draft #3 Due |
-| 11 | Large Group Workshop of Paper(s). | &nbsp; |
-| 12 | Read Baldwin, "Notes of a Native Son" + "Stranger in the Village." Discuss. | &nbsp; |
-| 13 | Assignment #4 presented.  {{< br >}}Brainstorming. | Revision #3 Due  {{< br >}}Proposal #4 Due |
-| 14 | Small Group Workshops. | Draft #4 Due |
-| 15 | Large Group Workshop. | &nbsp; |
-| 16 | Discuss Kingston's "No Name Woman" and "White Tigers."  {{< br >}}(Individual conferences twice a week. Sign up in class.)  {{< br >}}Assignment #5 presented. | Revision #4 Due  {{< br >}}Portfolio Due |
-| 17 | Small Group Workshops. | Draft #5 Due |
-| {{< td-colspan 3 >}}**III. Fine-tuning: Linguistic Precision: Uses of Fantasy, the Personal, and History**{{< /td-colspan >}} |||
-| 18 | Discuss Griffin, "Our Secret." | &nbsp; |
-| 19 | Group Workshop.  {{< br >}}Assignment #6 presented. | Revision #5 Due  {{< br >}}Proposal #6 Due |
-| 20 | Brainstorm Introductions to Portfolios/Retrospective Essays.  {{< br >}}(Revising draft #6-optional; you write it so you can choose among essays.) | Draft #6 Due |
-| 21 | &nbsp; | Portfolios and Draft of Introduction Due |
-| 22 | &nbsp; | Revised Introductions or Retrospective Essays Due  {{< br >}}  {{< br >}}No Late Papers
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Writing/Revising: Focusing, Summary vs. Analysis, Answering Questions, and Commenting Well**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Course, fill out Index Cards.  
+Consider Our "Claims to Distinction."  
+Begin your autobiography as a writer.  
+Suggestions for Paper #1.  
+Brainstorming.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Brief Autobiography As a Writer (3 pages).  
+Discuss Rodriguez, "The Achievement of Desire."
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Notes, and Proposal Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Small Group Workshops for Comments.  
+(Bring 3 copies of draft to class.)
+{{< tdclose >}}
+{{< tdopen >}}
+Draft #1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Jacobs, _Incidents_.  
+(N.B.) Assignment #2 presented and discussed.
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal #2 Due by Email
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Small Group Workshops.
+{{< tdclose >}}
+{{< tdopen >}}
+Draft #2 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Read _The Elements of Style_, by Strunk & White. Bring questions.  
+Large workshop on revising thesis, focus, organization, implications, etc.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Woolf, "A Sketch of the Past."  
+(Conferences this week. Sign up in class.)
+{{< tdclose >}}
+{{< tdopen >}}
+Revision #2 (of Draft #1 or #2) Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Continue Discussing Woolf.  
+Assignment #3 presented.
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal #3 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Overall Shapes of Essays: Organizing Principles, Models of Whole Selves and Whole Ideas**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Small Group Workshops.
+{{< tdclose >}}
+{{< tdopen >}}
+Draft #3 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Large Group Workshop of Paper(s).
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Read Baldwin, "Notes of a Native Son" + "Stranger in the Village." Discuss.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #4 presented.  
+Brainstorming.
+{{< tdclose >}}
+{{< tdopen >}}
+Revision #3 Due  
+Proposal #4 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Small Group Workshops.
+{{< tdclose >}}
+{{< tdopen >}}
+Draft #4 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Large Group Workshop.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Kingston's "No Name Woman" and "White Tigers."  
+(Individual conferences twice a week. Sign up in class.)  
+Assignment #5 presented.
+{{< tdclose >}}
+{{< tdopen >}}
+Revision #4 Due  
+Portfolio Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Small Group Workshops.
+{{< tdclose >}}
+{{< tdopen >}}
+Draft #5 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Fine-tuning: Linguistic Precision: Uses of Fantasy, the Personal, and History**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Griffin, "Our Secret."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Group Workshop.  
+Assignment #6 presented.
+{{< tdclose >}}
+{{< tdopen >}}
+Revision #5 Due  
+Proposal #6 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Brainstorm Introductions to Portfolios/Retrospective Essays.  
+(Revising draft #6-optional; you write it so you can choose among essays.)
+{{< tdclose >}}
+{{< tdopen >}}
+Draft #6 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Portfolios and Draft of Introduction Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Revised Introductions or Retrospective Essays Due  
+  
+No Late Papers
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

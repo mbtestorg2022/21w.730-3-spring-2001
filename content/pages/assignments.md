@@ -12,12 +12,81 @@ Please read my comments from the beginning, along with what you have written. If
 
 Definitions of the Essay ([PDF]({{< baseurl >}}/resources/def_of_essay))
 
-| ASSIGNMENTS | STUDENT SAMPLES |
-| --- | --- |
-| 1 ([PDF]({{< baseurl >}}/resources/paper1)) | ([PDF]({{< baseurl >}}/resources/1anon_rodrig2)) |
-| 2 ([PDF]({{< baseurl >}}/resources/paper2)) | ([PDF]({{< baseurl >}}/resources/2anon_slave)) |
-| 3 ([PDF]({{< baseurl >}}/resources/paper3)) | ([PDF]({{< baseurl >}}/resources/3anon_virgwoolf2)) |
-| 4 ([PDF]({{< baseurl >}}/resources/paper4)) | ([PDF]({{< baseurl >}}/resources/4anon_baldwin2)) |
-| 5 ([PDF]({{< baseurl >}}/resources/paper5)) | ([PDF]({{< baseurl >}}/resources/5anon_mhk)) |
-| 6 ([PDF]({{< baseurl >}}/resources/21w_7306thpaper)) | ([PDF]({{< baseurl >}}/resources/6banon_code)) |
-| Portfolio ([PDF]({{< baseurl >}}/resources/introduction_to_portfolio)) | ([PDF]({{< baseurl >}}/resources/6aanon_retro))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT SAMPLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 ([PDF]({{< baseurl >}}/resources/paper1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/1anon_rodrig2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 ([PDF]({{< baseurl >}}/resources/paper2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/2anon_slave))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 ([PDF]({{< baseurl >}}/resources/paper3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/3anon_virgwoolf2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 ([PDF]({{< baseurl >}}/resources/paper4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/4anon_baldwin2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 ([PDF]({{< baseurl >}}/resources/paper5))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/5anon_mhk))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6 ([PDF]({{< baseurl >}}/resources/21w_7306thpaper))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/6banon_code))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Portfolio ([PDF]({{< baseurl >}}/resources/introduction_to_portfolio))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/6aanon_retro))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
